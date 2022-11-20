@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": [
+      {
+          "cron": "",
+          "id": "ca8360b8-677d-11ed-af43-000c291300f6",
+          "title": "京东云无线宝",
+          "description": "简易查询无线宝当日收益",
+          "public": true,
+          "icon": "https://raw.githubusercontent.com/laosan-xx/dgplugin/main/icon/jdcloud.png",
+          "version": "v1.0.0",
+          "author": "老三",
+          "status": 0,
+          "create_at": "2022-11-20 12:00:00",
+          "module": false,
+          "encrypt": false,
+          "on_start": false,
+          "address": "",
+          "organization": "",
+          "identified": false
+      }
+  ],
+  "page": 1,
+  "total": 1,
+  "time": "0001-01-01T00:00:00Z"
+}
